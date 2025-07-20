@@ -1,0 +1,17 @@
+/usr/local/lib/libydlidar_driver.a
+/usr/local/include/CYdLidar.h
+/usr/local/include/angles.h
+/usr/local/include/v8stdint.h
+/usr/local/include/thread.h
+/usr/local/include/ydlidar_protocol.h
+/usr/local/include/lock.h
+/usr/local/include/locker.h
+/usr/local/include/utils.h
+/usr/local/include/ydlidar_driver.h
+/usr/local/include/help_info.h
+/usr/local/include/timer.h
+/usr/local/include/serial.h
+/usr/local/lib/cmake/ydlidar_sdk/ydlidar_sdkTargets.cmake
+/usr/local/lib/cmake/ydlidar_sdk/ydlidar_sdkTargets-noconfig.cmake
+/usr/local/lib/cmake/ydlidar_sdk/ydlidar_sdkConfig.cmake
+/usr/local/lib/cmake/ydlidar_sdk/ydlidar_sdkConfigVersion.cmake
